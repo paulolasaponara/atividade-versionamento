@@ -13,3 +13,5 @@ git merge
 git remote add origin
 git push -u origin
 git pull
+
+alteraçoes Dev B
