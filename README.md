@@ -14,4 +14,6 @@ git remote add origin
 git push -u origin
 git pull
 
-alteraçoes Dev B
+
+lembrei do comando: git status
+alteraçoes dev B
