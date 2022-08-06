@@ -13,3 +13,5 @@ git merge
 git remote add origin
 git push -u origin
 git pull
+
+lembrei do comando: git status
