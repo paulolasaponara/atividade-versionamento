@@ -15,3 +15,5 @@ git push -u origin
 git pull
 
 lembrei do comando: git status
+
+alteraçoes dev B
